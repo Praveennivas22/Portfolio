@@ -1,22 +1,22 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react"
 
 const projects=[
-    {id: 1,
+    /*{id: 1,
       title: "E-Mart ECommerce Frontend Application",  
       description:"A Beautiful ECommerce Frontend Application Build Using React And TailwindCss",
       image:"/projects/project1.jpg",
       tags: ["React","TailwindCs","VsCode"],
       demoUrl:"https://narasimha-prog.github.io/E-Mart/",
       gitHubUrl:"https://github.com/Narasimha-prog/E-Mart"
-    },
-      {id: 2,
+    },*/
+      /*{id: 2,
       title: "Fitness Ai Java Microservices Application",  
       description:"A Java Microservices Using Gemini Ai support ,Spring Reactive Gateway",
       image:"/projects/project2.jpg",
       tags: ["React","MaterialUI","Java","SpringBoot","KeyCloak"],
        demoUrl:"https://github.com/Narasimha-prog/java-springboot-microservise-withAI",
       gitHubUrl:"https://github.com/Narasimha-prog/java-springboot-microservise-withAI"
-    }
+    }*/
 ]
 export const ProjectsSection = () => {
   return (
@@ -62,7 +62,7 @@ Each project demonstrates my commitment to creating effective, user-friendly sof
                )}
        </div>
          <div className="text-center mt-12">
-                   <a href="https://github.com/Narasimha-prog" className="cosmic-button w-fit flex items-center mx-auto gap-2">Check Out My GitHub <ArrowRight size={16}/></a>
+                   <a href="https://github.com/Praveennivas22" className="cosmic-button w-fit flex items-center mx-auto gap-2">Check Out My GitHub <ArrowRight size={16}/></a>
          </div>
     </div>
    </section>

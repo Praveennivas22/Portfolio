@@ -40,7 +40,7 @@ export const ContactSection = () => {
                         </div>
                         <div>
                             <h4 className="font-medium">EMail</h4>
-                            <a href="mailto:lnreddyreddy@gmail.com" className="text-muted-foreground hover:text-primary transition-colors" target="_blank">lnreddyreddy405@gmail.com</a>
+                            <a href="mailto:Praveennivas8@gmail.com" className="text-muted-foreground hover:text-primary transition-colors" target="_blank">praveennivas8@gmail.com</a>
                         </div>
                      </div>
                      <div className="flex items-start space-x-4">
@@ -49,7 +49,7 @@ export const ContactSection = () => {
                         </div>
                         <div>
                             <h4 className="font-medium">   Phone</h4>
-                            <a href="tel:+917569208701" className="text-muted-foreground hover:text-primary transition-colors" target="_blank">7569208701</a>
+                            <a href="tel:+918367270210" className="text-muted-foreground hover:text-primary transition-colors" target="_blank">8367270210</a>
                         </div>
                      </div>
                      <div className="flex items-start space-x-4">
@@ -58,7 +58,7 @@ export const ContactSection = () => {
                         </div>
                         <div>
                             <h4 className="font-medium ">   Location</h4>
-                            <a href="https://www.bing.com/maps?q=bapatla+district&FORM=HDRSC6&cp=15.934095%7E80.383064&lvl=10.4" className="text-muted-foreground hover:text-primary transition-colors" target="_blank">Bapatla,AP,India</a>
+                            <a href="https://www.bing.com/maps?q=bapatla+district&FORM=HDRSC6&cp=15.934095%7E80.383064&lvl=10.4" className="text-muted-foreground hover:text-primary transition-colors" target="_blank">Hyderabad, Telangana</a>
                         </div>
                      </div>
               </div>
@@ -66,13 +66,13 @@ export const ContactSection = () => {
               <div className="pt-8">
                   <h4 className="font-semibold mb-4">Connect With Me</h4>
                   <div className="flex space-x-4 justify-center">
-                     <a href="https://www.linkedin.com/in/lakshmi-narasimha-reddy-6b06b7305/" target="_blank">
+                     <a href="https://www.linkedin.com/in/praveennivas/" target="_blank">
                       <Linkedin />
                      </a>
-                      <a href="https://www.instagram.com/l_n_r_e_d_d_y_/" target="_blank">
+                      <a href="https://www.instagram.com/iam_praveen2261/" target="_blank">
                       <Instagram/>
                      </a>
-                      <a href="https://www.facebook.com/ln.reddy.37/" target="_blank">
+                      <a href="https://www.facebook.com/share/1GLJsNYk4Z/" target="_blank">
                       <Facebook/>
                      </a>
                   </div>
@@ -91,7 +91,7 @@ export const ContactSection = () => {
                                name="name" 
                                required
                                className=" w-full px-4 py-3 rounded-md border-input border bg-background focus: outline-hidden focus: ring-2 focus:ring-primary"
-                              placeholder="Venkata Reddy..."
+                              placeholder="praveen..."
                                />
                              </div>
 
@@ -103,7 +103,7 @@ export const ContactSection = () => {
                                name="email" 
                                required
                                className=" w-full px-4 py-3 rounded-md border-input border bg-background focus: outline-hidden focus: ring-2 focus:ring-primary"
-                              placeholder="eswarreddy@gmail.com"
+                              placeholder="praveen223@gmail.com"
                                />
                              </div>
 

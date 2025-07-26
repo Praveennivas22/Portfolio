@@ -14,8 +14,9 @@ export const HeroSection = () => {
                             <span className='text-gradient ml-2 animate-fade-in-delay-2 opacity-0' > Banoth</span>
                           </h1>
                           <p className='text-lg md:text-xl text-muted-foreground max-2-2xl opacity-0 animate-fade-in-delay-3 mx-auto'>
-                            Motivated engineering graduate skilled in full-stack development and database management, seeking an 
-entry-level software engineering position. Proficient in Java , Spring Boot,Spring Data JPA, Spring REST...
+                            Dynamic and ambitious BTech graduate in Computer Science and Engineering with a passion for technology and a drive for innovation.
+Proficient in various programming languages, algorithms, and software development methods. Committed to continuous learning 
+and professional growth to stay abreast of the latest industry trends and advancements.
                           </p>
                           <div className='pt-4 opacity-0 animate-fade-in-delay-4 '>
                             <a href='#projects' className='cosmic-button'>
